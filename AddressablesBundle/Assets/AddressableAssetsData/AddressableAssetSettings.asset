@@ -31,7 +31,7 @@ MonoBehaviour:
   m_DisableVisibleSubAssetRepresentations: 0
   m_ShaderBundleNaming: 0
   m_ShaderBundleCustomNaming: 
-  m_MonoScriptBundleNaming: 0
+  m_MonoScriptBundleNaming: 1
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
     m_Id: 692b1840bd9442441b8d3d3d3432c115
