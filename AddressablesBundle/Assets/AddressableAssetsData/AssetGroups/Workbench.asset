@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Workbench
+  m_EditorClassIdentifier: 
+  m_GroupName: Workbench
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 56421d30a40e5114495a410d9046f856
+  m_SerializeEntries:
+  - m_GUID: ecb23393a0d1b424a82fff68a4c00a66
+    m_Address: PlasticRidges_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40da0395b61db4448b98bab66d6b549c
+    m_Address: Metal_MetallicSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee7680f1374ab4449b6d5f6b2c2c1936
+    m_Address: PlasticRough_MetallicOcculusionSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77583f99dea53b641804bb357092ec83
+    m_Address: Metal_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c509e4ae024b5e4faeefb92dab5c812
+    m_Address: Hammer_MetallicOcculusionSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9644eb6aca67672449e2bcbb0eab8e84
+    m_Address: Plywood_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 201c1f77fe872924a86132486bc97e82
+    m_Address: PlasticRidges_MetallicOcculusionSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4dad30bbe2213eb4d8312f7bb6190866
+    m_Address: Plastic_Gray_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c021d051fa0cba84282b4a2577aa85c5
+    m_Address: PlasticRidges_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8850d132797ff49298ba781e8e1c9bfe
+    m_Address: Workbench
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0adcaeba3022437293536832628fdf8
+    m_Address: Workbench_LOD0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3017ed6fed9d3bb49ba99bf738e2d626
+    m_Address: Jigsaw_MetallicOcculusionSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db17334dfe5991a4bbe241ee9a728c38
+    m_Address: Elastic_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a38b7350df9a9c438e568993a00e5c5
+    m_Address: Plastic_Transparent
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f61f8dd4499250438f1aa39448e860a
+    m_Address: SafetyHat_MetallicOcculusionSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59c8de363dc14c54986d0751c2c38342
+    m_Address: Hammer_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b73e8872ca76104bbca4ee2b704a1b4
+    m_Address: jigsaw_low
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff6dc36862fe41641bb21568d92147c9
+    m_Address: Workbench_Low
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c532880e607f8c84d8b9bf0c46a522ad
+    m_Address: Liquid_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd2d742ee2ce7a740ae0cf992a38be74
+    m_Address: Plastic_Yellow_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bae110eee250e4b418b188f4ae4e3170
+    m_Address: magneticlevel_low
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c517a9b1527aec343806327b47ad22df
+    m_Address: Hammer_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5aaee4111611af43b5abbff184fe5fa
+    m_Address: Plastic_Rough_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6296e48663fd7ad46b1a2af507f871cf
+    m_Address: safetygoggles_low
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81c1860e7800e5340bf8a54c565ba9ea
+    m_Address: Strap_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3f247b26e080ca468f1daa963c192ee
+    m_Address: Jigsaw_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d608c45da8580c9408ee50eb9a8c40f3
+    m_Address: SafetyHat_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5df2fb0c070b57429f8ca23b216093b
+    m_Address: Elastic_MetallicOcculusionSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4efcffd7ae23f1e41943fd914b18da10
+    m_Address: Hammer_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34624edaccd9d704a95ed404d919b492
+    m_Address: Stud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b0b7c1f4ac9f6b499e27cf84e722ff4
+    m_Address: Metal_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b82d12aad56cc445b99fd1cf06a232d
+    m_Address: PlasticRough_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e38f7921b7d7b1418ab63c08117ffb8
+    m_Address: Plywood_MetallicOcculusionSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e93789f0a5d66df4a81613935579642b
+    m_Address: HardHat_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 933532a4fcc9baf4fa0491de14d08ed7
+    m_Address: Lit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d0d902f71acfe646a46cb625f815a49
+    m_Address: safetyhat_low
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38d5ecfa2b93c4095b4cc5d4a590e676
+    m_Address: Workbench_LOD1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06969fc081d8cc146af6634f75abe652
+    m_Address: Jigsaw_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f89fed00b6bc904c861ab847a811cb8
+    m_Address: Plastic_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68a66fb5a71f8204a8dcb613c97d1fa8
+    m_Address: hammer_low
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efe9381559c516743bd05cef82f39ebb
+    m_Address: Workbench
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2148396b133b56f40baa7ea4fd22982a
+    m_Address: Plywood_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e109905c411b0f84e82eaaf2705ece30
+    m_Address: Plastic_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd61af2ec9847eb4d8e17529fa61b143
+    m_Address: SafetyHat_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd71291c91c8cce499cb663b5db9970e
+    m_Address: Metal_Blue_Simple_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0427cf339e5891468d5f2b433b2d44a
+    m_Address: Metal_Simple_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 027cb3d3d7dc79d41ad763e01759de07
+    m_Address: Stud_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 801db2d997a562b4ea333aa4593ce0f0
+    m_Address: Jigsaw_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e745492728544aa488aa0429b6068e71
+    m_Address: Plastic_Black_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c05de7c865075334786e6a47a543af72
+    m_Address: Plastic_Ridges_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 02fa1f829894558459404a2249d74855, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 23d9f3810d3f4ef418f29b36be7d06ff, type: 2}
+    - {fileID: 11400000, guid: 947028c83934106479741ba9585c0792, type: 2}
