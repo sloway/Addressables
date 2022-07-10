@@ -18,7 +18,7 @@ public class BundleLoader : MonoBehaviour
     Assembly AddAssemblyToDomain(string AssemblyPath)
     {
         byte[] rawAssembly = LoadFile(AssemblyPath);
-        return AppDomain.CurrentDomain.Load(rawAssembly);
+        return AppDomain.CurrentDomain.Load(rawAssembly);        
     }
     byte[] LoadFile(string filename)
     {
@@ -48,7 +48,7 @@ public class BundleLoader : MonoBehaviour
 
     public async Task LoadBundlePrefab()
     {
-        var catalogPath = "http://127.0.0.1:5500/StandaloneWindows64/catalog_2022.07.10.07.31.10.json";
+        var catalogPath = "http://127.0.0.1:5500/StandaloneWindows64/catalog_2022.07.10.12.40.20.json";
         var key = "Workbench";
 
         await Addressables.LoadContentCatalogAsync(catalogPath).Task;
@@ -58,8 +58,7 @@ public class BundleLoader : MonoBehaviour
         Debug.Log(prefab);
 
         var gameObject = await Addressables.InstantiateAsync(prefab).Task;
-        gameObject.AddComponent(myComponent);
-
+        
         Debug.Log("Done");
     }
 
