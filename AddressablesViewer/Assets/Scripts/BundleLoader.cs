@@ -9,7 +9,7 @@ public class BundleLoader : MonoBehaviour
 {
     private async void Start()
     {
-        var catalogPath = "http://127.0.0.1:5500/StandaloneWindows64/catalog_2022.07.10.06.57.36.json";
+        var catalogPath = "http://127.0.0.1:5500/StandaloneWindows64/catalog_2022.07.10.07.31.10.json";
         var key = "Workbench";
         await LoadBundlePrefab(catalogPath, key);
     }
